@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kurbani-afrika-2026",
+    "title": "Kurbani Afrika 2026.",
+    "description": "Donacija se dijeli u siromašnim selima i pogođenim glađu. Obuhvata države: Malavi, Čad, Uganda i Kenija.",
+    "seoDescription": "Donirajte kurban za ugrožene u Africi. Šerijatsko klanje i video materijal obezbeđeni.",
+    "goal": 0,
+    "image": "/akcija-kurbani.jpeg",
+    "highlights": [
+      { "label": "Koza / Udio u kravi", "value": "100€" },
+      { "label": "Ovca", "value": "140€" },
+      { "label": "Garancija", "value": "Šerijatsko klanje" },
+      { "label": "Izveštaj", "value": "Video materijal sa vašim imenom" }
+    ]
+  },
+  { 
+    "id": "zimska-odeca", 
+    "title": "Zimska odeća za decu", 
+    "description": "Prikupljamo sredstva za kupovinu jakni i obuće za decu iz ugroženih porodica.",
+    "seoDescription": "Uključite se u akciju prikupljanja sredstava za zimsku odeću ugroženoj deci.", 
+    "goal": 50000,
+    "highlights": [
+      { "label": "Cilj", "value": "50.000 RSD" },
+      { "label": "Paket sadrži", "value": "Zimska jakna, kapa, šal, rukavice i čizme" }
+    ]
+  }
+]

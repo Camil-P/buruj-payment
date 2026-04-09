@@ -1,0 +1,20 @@
+[
+  {
+    "id": "paypal-glavni",
+    "type": "PAYPAL",
+    "name": "Plaćanje preko PayPala",
+    "data": {
+      "paypalLink": "https://paypal.me/TvojNalog"
+    }
+  },
+  {
+    "id": "banka-dinarski",
+    "type": "BANK",
+    "name": "Direktno na račun (QR Kod)",
+    "data": {
+      "recipientName": "Tvoje Ime i Prezime",
+      "bankAccount": "160000000000000000",
+      "paymentCode": "289"
+    }
+  }
+]
